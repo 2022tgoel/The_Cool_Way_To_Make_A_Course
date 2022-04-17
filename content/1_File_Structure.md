@@ -7,13 +7,13 @@ First, you need to make sure your course materials follow the correct file stuct
 .
 ├── README.md
 ├── content
-│   ├── 03_Pytorch.md
-│   ├── 1_Solving_Simple_Systems.md
-│   ├── 2_unit
-│   │   ├── 01_Eigenvectors.md
-│   │   ├── 02_practice.md
-│   │   └── index.md
-│   └── index.md
+│			  ├── 03_Pytorch.md
+│			  ├── 1_Solving_Simple_Systems.md
+│			  ├── 2_unit
+│			  │			    ├── 01_Eigenvectors.md
+│             │             ├── 02_practice.md
+│             │             └── index.md
+│             └── index.md
 └── ocw.json
 ```
 
